@@ -2,7 +2,7 @@
 
 > **50 Hét - 50 Nyelv Kihívás: 3. Hét (C++)**
 
-Ez a projekt a klasszikus "Snake" (Kígyós) játék modern, objektumorientált megvalósítása C++ nyelven. A grafikus megjelenítésért az ipari szabványú **SFML (Simple and Fast Multimedia Library)** felel.
+Ez a projekt a klasszikus "Snake" (Kígyós) játék modern, objektumorientált megvalósítása C++ nyelven. A grafikus megjelenítésért az **SFML (Simple and Fast Multimedia Library)** felel.
 
 ---
 
